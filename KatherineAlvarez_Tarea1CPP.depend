@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1603658793 source:c:\users\alvar\onedrive\desktop\progra\c++\uned\tarea1\katherinealvarez_tarea1cpp\main.cpp
+	<iostream>
+	<wchar.h>
+	<ctime>
+	<conio.h>
+	<windows.h>
+	<stdio.h>
+
+1603658061 source:c:\users\alvar\onedrive\desktop\progra\c++\uned\tarea1\tarea1_katherinealvarezdiaz\paradario.cpp
+	<iostream>
+	<wchar.h>
+	<ctime>
+	<conio.h>
+	<windows.h>
+	<stdio.h>
+	<locale.h>
+
